@@ -4,3 +4,4 @@ seaborn>=0.9.0
 numpy>=1.17.0
 scikit-learn[alldeps]
 xlrd>=1.0.0
+pandasql>=0.7.3
