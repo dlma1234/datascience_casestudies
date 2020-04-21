@@ -5,3 +5,4 @@ numpy>=1.17.0
 scikit-learn[alldeps]
 xlrd>=1.0.0
 pandasql>=0.7.3
+imbalanced-learn==0.6.2
